@@ -1,5 +1,7 @@
 # Agile Planning Poker® powered by Firebase and AngularJS
 
+Forked [source](https://github.com/Wizehive/firepoker)
+
 [https://firepoker.io](https://firepoker.io)
 
 ## Copyright & License
